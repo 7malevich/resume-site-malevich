@@ -32,7 +32,6 @@ database.rules.json
  
 # production
 /build 
-/dist
 
 # Dependency directories
 node_modules/
